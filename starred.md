@@ -226,6 +226,7 @@
 
 ## CoffeeScript 
 
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [chinakids/atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 
 ## D 
@@ -258,6 +259,7 @@
 
 ## Go 
 
+- [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
@@ -334,7 +336,7 @@
 - [caozongpeng/SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) - 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [byteblogs168/plumemo](https://github.com/byteblogs168/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
-- [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
+- [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - spring-boot打造文件文档在线预览项目
 - [y894577/SalaryManagementSystem](https://github.com/y894577/SalaryManagementSystem) - 一人全栈系列
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
 - [FisherWY/ezmall](https://github.com/FisherWY/ezmall) - JavaWeb期末项目整合
@@ -343,6 +345,7 @@
 
 ## JavaScript 
 
+- [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [Arnie97/moerail](https://github.com/Arnie97/moerail) - 铁路车站代码查询 × 动车组交路查询
@@ -351,7 +354,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1674-Stars](https://github.com/RealPeha/This-Repo-Has-1674-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -529,7 +532,7 @@
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - 「jf open 粉圓」是基於 Kosugi Maru 改作， 由 justfont 設計師針對台灣日常應用加以優化的開源字型。 歡迎大家自由應用、自由優化、自由改做！
-- [isrc-cas/PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
+- [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - 好冲鼻受不了了二刺螈D区
@@ -675,7 +678,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-383-Stars](https://github.com/iBug/This-Repo-Has-383-Stars) - Yes, it's true :two_hearts: This repository has 383 stars.
+- [iBug/This-Repo-Has-385-Stars](https://github.com/iBug/This-Repo-Has-385-Stars) - Yes, it's true :sparkling_heart: This repository has 385 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -893,6 +896,7 @@
 
 ## TeX 
 
+- [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [Elitedj/SCNU_BeamerTemplate](https://github.com/Elitedj/SCNU_BeamerTemplate) - 华南师范大学Beamer模板
 
@@ -900,7 +904,7 @@
 
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [akirarika/kurimudb](https://github.com/akirarika/kurimudb) - ⚓ 足够简单的前端存储解决方案
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
