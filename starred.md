@@ -70,6 +70,8 @@
 
 ## C 
 
+- [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+- [skyzh/linux-kernel-labs](https://github.com/skyzh/linux-kernel-labs) - Linux kernel labs
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [wayland-project/weston](https://github.com/wayland-project/weston) - Reference compositor for Wayland (mirror)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -133,6 +135,8 @@
 
 ## C++ 
 
+- [wellington/go-libsass](https://github.com/wellington/go-libsass) - Go wrapper for libsass, the only Sass 3.5 compiler for Go
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [GassaFM/olymp.sty](https://github.com/GassaFM/olymp.sty) - LATEX package for creating statements for programming contest problems
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -182,6 +186,8 @@
 
 ## CSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
+- [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [zgq354/scnu-life](https://github.com/zgq354/scnu-life) - 🏠 SCNU.LIFE — 华南师大网址导航
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
@@ -259,6 +265,7 @@
 
 ## Go 
 
+- [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -325,6 +332,7 @@
 
 ## Java 
 
+- [icpctools/icpctools](https://github.com/icpctools/icpctools) - The ICPC Tools
 - [user-kay/Java-homework](https://github.com/user-kay/Java-homework) - Java作业（已开源）
 - [hex539/scoreboard](https://github.com/hex539/scoreboard) - Online judge scoreboard parser
 - [yui/yuicompressor](https://github.com/yui/yuicompressor) - YUI Compressor
@@ -354,7 +362,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -414,7 +422,7 @@
 - [chyyuu/v8-cpu](https://github.com/chyyuu/v8-cpu) - Simple 8-bit v8-CPU with Compiler+Assembler+Simulator. Try it--&gt;
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [Himself65/did-zhihu-close-down-today](https://github.com/Himself65/did-zhihu-close-down-today) - 知乎今天倒闭了吗？
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [ZouAgTao/scnu_helper](https://github.com/ZouAgTao/scnu_helper) - 
@@ -523,6 +531,9 @@
 
 ## Others 
 
+- [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
+- [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台，可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，最大化释放你的双手，针对代码提供了额外的高亮功能。主站点已全站 CDN 以及 GZIP 传输，有着好看的前端（嘤嘤嘤）和优秀的访问速度。
+- [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [awesome-iupc2021/awesome-iupc2021](https://github.com/awesome-iupc2021/awesome-iupc2021) - 
@@ -667,6 +678,7 @@
 
 ## Python 
 
+- [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [EYHN/telegram-search](https://github.com/EYHN/telegram-search) - telegram message search bot, optimized for Chinese search.
@@ -678,7 +690,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-385-Stars](https://github.com/iBug/This-Repo-Has-385-Stars) - Yes, it's true :sparkling_heart: This repository has 385 stars.
+- [iBug/This-Repo-Has-386-Stars](https://github.com/iBug/This-Repo-Has-386-Stars) - Yes, it's true :heartbeat: This repository has 386 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -818,6 +830,7 @@
 
 ## Shell 
 
+- [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [fjudith/docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
