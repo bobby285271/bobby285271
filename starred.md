@@ -135,6 +135,9 @@
 
 ## C++ 
 
+- [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
+- [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
+- [ftiasch/ccpc-final-2020](https://github.com/ftiasch/ccpc-final-2020) - 
 - [wellington/go-libsass](https://github.com/wellington/go-libsass) - Go wrapper for libsass, the only Sass 3.5 compiler for Go
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [GassaFM/olymp.sty](https://github.com/GassaFM/olymp.sty) - LATEX package for creating statements for programming contest problems
@@ -362,7 +365,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -690,7 +693,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-386-Stars](https://github.com/iBug/This-Repo-Has-386-Stars) - Yes, it's true :heartbeat: This repository has 386 stars.
+- [iBug/This-Repo-Has-385-Stars](https://github.com/iBug/This-Repo-Has-385-Stars) - Yes, it's true :heartpulse: This repository has 385 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -784,7 +787,7 @@
 - [RustAudio/deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings for the deepspeech library
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - GTK 4 bindings and wrappers for Rust (Development)
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (Development)
 - [Centril/rust-safe](https://github.com/Centril/rust-safe) - A `#[safe]` attribute for explaining why `unsafe { ... }` is OK.
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
@@ -830,6 +833,7 @@
 
 ## Shell 
 
+- [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [fjudith/docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
@@ -916,6 +920,7 @@
 
 ## TypeScript 
 
+- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
