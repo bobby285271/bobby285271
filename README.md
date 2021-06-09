@@ -9,7 +9,7 @@
 - a Linux enthusiast, [AOSC](https://aosc.io/people/~bobby285271/) member, can opener in [SCNU Software Association](https://socoding.cn/u/bobby285271), [Fedora Project](https://fedoraproject.org/wiki/User:Rjl931189261) FPCA+1.
 - a naive competitive programmer, ICPCer, developer and maintainer of [SCNU Online Judge](https://oj.socoding.cn/).
 
-🌸 Feel free to visit my personal [wiki.js instance](https://www.bobby285271.top/) and ask my anything by creating an issue [here](https://github.com/bobby285271/bobby285271/issues/new)!
+🌸 Feel free to visit my personal [wiki.js instance](https://www.bobby285271.top/) (zh_Hans) and ask my anything by creating an issue [here](https://github.com/bobby285271/bobby285271/issues/new)!
 
 ✨ [A curated list of my GitHub stars!](starred.md)
 
