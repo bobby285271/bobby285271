@@ -70,6 +70,7 @@
 
 ## C 
 
+- [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [skyzh/linux-kernel-labs](https://github.com/skyzh/linux-kernel-labs) - Linux kernel labs
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
@@ -135,6 +136,7 @@
 
 ## C++ 
 
+- [livrth/cp](https://github.com/livrth/cp) - Competitive Programming Solutions
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [ftiasch/ccpc-final-2020](https://github.com/ftiasch/ccpc-final-2020) - 
@@ -324,6 +326,7 @@
 
 ## Haskell 
 
+- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-06-16: 793)
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
@@ -356,6 +359,8 @@
 
 ## JavaScript 
 
+- [ewlsh/dash-to-dock](https://github.com/ewlsh/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
+- [guillaumepotier/gettext.js](https://github.com/guillaumepotier/gettext.js) - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -366,7 +371,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1670-Stars](https://github.com/RealPeha/This-Repo-Has-1670-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -535,6 +540,7 @@
 
 ## Others 
 
+- [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台，可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，最大化释放你的双手，针对代码提供了额外的高亮功能。主站点已全站 CDN 以及 GZIP 传输，有着好看的前端（嘤嘤嘤）和优秀的访问速度。
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
@@ -694,7 +700,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-385-Stars](https://github.com/iBug/This-Repo-Has-385-Stars) - Yes, it's true :revolving_hearts: This repository has 385 stars.
+- [iBug/This-Repo-Has-385-Stars](https://github.com/iBug/This-Repo-Has-385-Stars) - Yes, it's true :heart: This repository has 385 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -784,6 +790,7 @@
 
 ## Rust 
 
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - 
 - [RustAudio/deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings for the deepspeech library
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -878,7 +885,7 @@
 - [KaOS-Community-Packages/wps-office](https://github.com/KaOS-Community-Packages/wps-office) - Kingsoft Office (WPS Office) is an office productivity suite
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux!
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
@@ -969,6 +976,7 @@
 
 ## Vue 
 
+- [Clansty/electron-qq](https://github.com/Clansty/electron-qq) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [byteblogs168/plumemo-admin](https://github.com/byteblogs168/plumemo-admin) - plumemo 后端管理系统
 - [luogu-dev/luogu-blog-frontend](https://github.com/luogu-dev/luogu-blog-frontend) - Frontend Theme Packs for Luogu Blog.
