@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [rocka/fcitx5-android-poc](https://github.com/rocka/fcitx5-android-poc) - An attempt to run fcitx5 on Android
 - [microsoft/ProjectReunion](https://github.com/microsoft/ProjectReunion) - Project Reunion empowers all Windows apps (not just UWP/MSIX) with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
@@ -289,7 +290,7 @@
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
@@ -330,7 +331,7 @@
 
 ## Haskell 
 
-- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-06-19: 902)
+- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-06-21: 926)
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
@@ -376,7 +377,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1668-Stars](https://github.com/RealPeha/This-Repo-Has-1668-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -694,6 +695,7 @@
 
 ## Python 
 
+- [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -706,7 +708,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-383-Stars](https://github.com/iBug/This-Repo-Has-383-Stars) - Yes, it's true :heart: This repository has 383 stars.
+- [iBug/This-Repo-Has-384-Stars](https://github.com/iBug/This-Repo-Has-384-Stars) - Yes, it's true :heart: This repository has 384 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -848,6 +850,7 @@
 
 ## Shell 
 
+- [rocky-linux/rocky-tools](https://github.com/rocky-linux/rocky-tools) - 
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
