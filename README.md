@@ -12,5 +12,3 @@
 🌸 Feel free to visit my personal [wiki.js instance](https://www.bobby285271.top/) (zh_Hans) and ask my anything by creating an issue [here](https://github.com/bobby285271/bobby285271/issues/new)!
 
 ✨ [A curated list of my GitHub stars!](starred.md)
-
-🌿 简体中文版 [Fedora Silverblue 用户指南](https://docs.fedoraproject.org/zh_Hans/fedora-silverblue/) - 帮助我们 [改进翻译](https://translate.fedoraproject.org/languages/zh_Hans/fedora-docs-l10n-fedora-silverblue/)！
