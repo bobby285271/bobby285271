@@ -7,6 +7,7 @@
 
   - [ASP](#asp)
   - [Assembly](#assembly)
+  - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -17,6 +18,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
+  - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [FreeMarker](#freemarker)
   - [Go](#go)
@@ -63,6 +65,10 @@
 
 - [Himself65/learn-os](https://github.com/Himself65/learn-os) - 操作系统学习指南
 - [atesgoral/hrm-solutions](https://github.com/atesgoral/hrm-solutions) - Human Resource Machine solutions and size/speed hacks
+
+## AutoIt 
+
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11 ready
 
 ## Batchfile 
 
@@ -136,10 +142,12 @@
 
 ## C++ 
 
+- [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
+- [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Do transactional updates on openSUSE/SUSE Linux Enterprise products with btrfs, snapshots and rollback
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [rocka/fcitx5-android-poc](https://github.com/rocka/fcitx5-android-poc) - An attempt to run fcitx5 on Android
-- [microsoft/ProjectReunion](https://github.com/microsoft/ProjectReunion) - Project Reunion empowers all Windows apps (not just UWP/MSIX) with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [livrth/cp](https://github.com/livrth/cp) - Competitive Programming Solutions
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
@@ -195,6 +203,7 @@
 
 ## CSS 
 
+- [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
@@ -256,6 +265,7 @@
 
 ## Dockerfile 
 
+- [palazzem/archlinux-toolbox](https://github.com/palazzem/archlinux-toolbox) - Archlinux toolbox
 - [NixOS/docker](https://github.com/NixOS/docker) - Dockerfiles to package Nix in a minimal docker container
 - [0xffff-one/0xffff-env](https://github.com/0xffff-one/0xffff-env) - 0xFFFF 网站基础环境配置
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -263,6 +273,10 @@
 ## EJS 
 
 - [TransparentLC/hexo-theme-akarin](https://github.com/TransparentLC/hexo-theme-akarin) - The theme of https://akarin.dev
+
+## Elixir 
+
+- [Hentioe/policr-mini](https://github.com/Hentioe/policr-mini) - 更加现代的 Policr 迷你版
 
 ## Emacs Lisp 
 
@@ -377,7 +391,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -471,7 +485,7 @@
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm and GitHub
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript and ESM
 - [wzpan/hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [910JQK/linuxbar](https://github.com/910JQK/linuxbar) - A lightweight forum powered by Flask & Peewee. (Development Stopped)
@@ -546,6 +560,7 @@
 
 ## Others 
 
+- [YanWQ-monad/university-information](https://github.com/YanWQ-monad/university-information) - 
 - [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
@@ -695,6 +710,8 @@
 
 ## Python 
 
+- [lapp0/nix-gui](https://github.com/lapp0/nix-gui) - Nixos for Non-Programmers
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs
 - [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -708,7 +725,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-384-Stars](https://github.com/iBug/This-Repo-Has-384-Stars) - Yes, it's true :heart: This repository has 384 stars.
+- [iBug/This-Repo-Has-383-Stars](https://github.com/iBug/This-Repo-Has-383-Stars) - Yes, it's true :orange_heart: This repository has 383 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -803,7 +820,7 @@
 - [RustAudio/deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings for the deepspeech library
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (Development)
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [Centril/rust-safe](https://github.com/Centril/rust-safe) - A `#[safe]` attribute for explaining why `unsafe { ... }` is OK.
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
