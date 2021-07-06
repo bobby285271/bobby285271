@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ASL](#asl)
   - [ASP](#asp)
   - [Assembly](#assembly)
   - [AutoIt](#autoit)
@@ -55,6 +56,10 @@
   - [VHDL](#vhdl)
   - [Vala](#vala)
   - [Vue](#vue)
+
+## ASL 
+
+- [edk2-porting/edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845) - (Maybe) Generic edk2 port for sdm845
 
 ## ASP 
 
@@ -347,7 +352,9 @@
 
 ## Haskell 
 
-- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-06-30: 1000)
+- [jgm/commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-07-03: 1009)
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
@@ -393,7 +400,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -528,6 +535,7 @@
 
 ## Nix 
 
+- [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [maintainer=@figsoda]
 - [nix-dot-dev/getting-started-nix-template](https://github.com/nix-dot-dev/getting-started-nix-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
@@ -580,7 +588,7 @@
 - [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
-- [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - 好冲鼻受不了了二刺螈D区
+- [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - hso!
 - [edolstra/edolstra.github.io](https://github.com/edolstra/edolstra.github.io) - Homepage
 - [nixos-cn/NixOS-FAQ](https://github.com/nixos-cn/NixOS-FAQ) - NixOS 常见问题解答
 - [nixos-cn/NixOS-CN-telegram](https://github.com/nixos-cn/NixOS-CN-telegram) - NixOS 中文 Telegram 群组成员配置文件
@@ -712,6 +720,7 @@
 
 ## Python 
 
+- [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [timokau/marvin-mk2](https://github.com/timokau/marvin-mk2) - Making sure your PR gets a review and your reviews don't get lost.
 - [ZeroSimple/MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
@@ -730,7 +739,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
-- [iBug/This-Repo-Has-383-Stars](https://github.com/iBug/This-Repo-Has-383-Stars) - Yes, it's true :orange_heart: This repository has 383 stars.
+- [iBug/This-Repo-Has-383-Stars](https://github.com/iBug/This-Repo-Has-383-Stars) - Yes, it's true :purple_heart: This repository has 383 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -820,6 +829,7 @@
 
 ## Rust 
 
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - 
 - [RustAudio/deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings for the deepspeech library
@@ -872,6 +882,9 @@
 
 ## Shell 
 
+- [repo-sync/pull-request](https://github.com/repo-sync/pull-request) - ⤵️ A GitHub Action for creating pull requests
+- [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
+- [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [rocky-linux/rocky-tools](https://github.com/rocky-linux/rocky-tools) - 
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
@@ -961,6 +974,7 @@
 
 ## TypeScript 
 
+- [Prince781/vala-vscode](https://github.com/Prince781/vala-vscode) - Vala and Genie integration for Visual Studio Code/VSCodium/Code-OSS
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
@@ -972,7 +986,7 @@
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - 新一代高效强大的信息学在线测评系统
@@ -1004,6 +1018,7 @@
 
 ## Vala 
 
+- [bluesabre/darkbar](https://github.com/bluesabre/darkbar) - Darken window titlebars based on your preference. Made exclusively for elementary OS 6 "Odin".
 - [Prince781/vala-language-server](https://github.com/Prince781/vala-language-server) - Code Intelligence for Vala & Genie
 - [GNOME/vala](https://github.com/GNOME/vala) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
