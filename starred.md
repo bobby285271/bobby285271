@@ -14,6 +14,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [D](#d)
   - [Dart](#dart)
@@ -59,7 +60,7 @@
 
 ## ASL 
 
-- [edk2-porting/edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845) - (Maybe) Generic edk2 port for sdm845
+- [edk2-porting/edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845) - Broken edk2 port for sdm845 xD
 
 ## ASP 
 
@@ -148,6 +149,7 @@
 
 ## C++ 
 
+- [RainerGrimm/Cpp20](https://github.com/RainerGrimm/Cpp20) - This is the code repository for my book "C++20 - Get the Details"
 - [jmanc3/winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transition
 - [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Do transactional updates on openSUSE/SUSE Linux Enterprise products with btrfs, snapshots and rollback
@@ -256,6 +258,10 @@
 - [horst3180/arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme) - Arc Firefox Theme
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 
+## Clojure 
+
+- [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
+
 ## CoffeeScript 
 
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -352,9 +358,10 @@
 
 ## Haskell 
 
+- [Gabriel439/nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ
 - [jgm/commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-07-03: 1009)
+- [siraben/freenode-exodus](https://github.com/siraben/freenode-exodus) - Projects and channels that have decided to leave Freenode. (Leave count as of 2021-07-09: 1018)
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
@@ -387,6 +394,8 @@
 
 ## JavaScript 
 
+- [Ahaochan/Tampermonkey](https://github.com/Ahaochan/Tampermonkey) - 油猴脚本集合
+- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [ewlsh/dash-to-dock](https://github.com/ewlsh/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [guillaumepotier/gettext.js](https://github.com/guillaumepotier/gettext.js) - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.
@@ -400,7 +409,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -535,6 +544,8 @@
 
 ## Nix 
 
+- [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [maintainer=@figsoda]
@@ -570,6 +581,8 @@
 
 ## Others 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
@@ -720,11 +733,12 @@
 
 ## Python 
 
+- [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [timokau/marvin-mk2](https://github.com/timokau/marvin-mk2) - Making sure your PR gets a review and your reviews don't get lost.
 - [ZeroSimple/MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-- [lapp0/nix-gui](https://github.com/lapp0/nix-gui) - Nixos for Non-Programmers
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs
 - [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
@@ -829,6 +843,7 @@
 
 ## Rust 
 
+- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - 
@@ -882,6 +897,8 @@
 
 ## Shell 
 
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - Create Debian archives from PKGBUILDs
+- [kidonng/nix.fish](https://github.com/kidonng/nix.fish) - ❄️🐟 Fish plugin for Nix
 - [repo-sync/pull-request](https://github.com/repo-sync/pull-request) - ⤵️ A GitHub Action for creating pull requests
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
