@@ -605,7 +605,7 @@
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [paulbjensen/cross-platform-desktop-applications](https://github.com/paulbjensen/cross-platform-desktop-applications) - Code examples for the book "Cross Platform Desktop Applications"
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [zhblue/hustoj](https://github.com/zhblue/hustoj) - Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [CLAMorz/SCNUOJ](https://github.com/CLAMorz/SCNUOJ) - 
@@ -681,7 +681,7 @@
 
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [malob/nixpkgs-mainProgram-maintenance](https://github.com/malob/nixpkgs-mainProgram-maintenance) - Scripts to help with maintenance of meta.mainProgram in nixpkgs.
-- [linuxdeepin/dde-nixos](https://github.com/linuxdeepin/dde-nixos) - dde 23 on NixOS
+- [linuxdeepin/dde-nixos](https://github.com/linuxdeepin/dde-nixos) - [Archived] dde 23 on NixOS
 - [malob/nix-review-tools-reports](https://github.com/malob/nix-review-tools-reports) - Automatically generates Hydra jobset reports using `nix-review-tools`, updated hourly.
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
@@ -702,7 +702,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
-- [ShadowRZ/flakes](https://github.com/ShadowRZ/flakes) - Hanekokoro OS
+- [ShadowRZ/flakes](https://github.com/ShadowRZ/flakes) - Project Hanekokoro
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
@@ -983,7 +983,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :orange_heart: This repository has 555 stars.
+- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :heartpulse: This repository has 556 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1169,6 +1169,7 @@
 
 ## Shell 
 
+- [taoky/icpcstrap](https://github.com/taoky/icpcstrap) - ICPC 2023 合肥站选手机器镜像制作脚本
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [Saruspete/ammlib](https://github.com/Saruspete/ammlib) - bash-library to provide high-level functions with whatever it has available. No hard-dependency: it'll do with what is available (or will fail fast)
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions
