@@ -408,7 +408,7 @@
 - [Yue-plus/S-I-C-P](https://github.com/Yue-plus/S-I-C-P) - 
 - [Uahh/LLDD](https://github.com/Uahh/LLDD) - LoveLive推し成分鉴定器
 - [corbindavenport/link-cleaner](https://github.com/corbindavenport/link-cleaner) - Progressive Web App for removing tracking code and other variables from web links
-- [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website and discussion board of Yihui Xie
+- [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website and discussion board of Yihui Xie | 谢益辉
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [KawaiiZapic/bailan](https://github.com/KawaiiZapic/bailan) - 我用CSS摆烂你的摆烂
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
@@ -537,7 +537,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1754-Stars](https://github.com/RealPeha/This-Repo-Has-1754-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -983,7 +983,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-559-Stars](https://github.com/iBug/This-Repo-Has-559-Stars) - Yes, it's true :two_hearts: This repository has 559 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :sparkling_heart: This repository has 561 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
