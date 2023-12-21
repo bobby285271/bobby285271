@@ -537,7 +537,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -560,7 +560,7 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [gengshuang1/gengshuang1.github.io](https://github.com/gengshuang1/gengshuang1.github.io) - 耿爽模拟器｜原仓库被删除，此处为网友备份 。在线地址：
-- [project-wolves/SPICE-and-Wolf](https://github.com/project-wolves/SPICE-and-Wolf) - (Pending) A simple Chinese guide for new GNU/Linux user.
+- [project-foohoro/SPICE-and-Wolf](https://github.com/project-foohoro/SPICE-and-Wolf) - (Pending) A simple Chinese guide for new GNU/Linux user.
 - [ekzhang/wkspace](https://github.com/ekzhang/wkspace) - Competitive programming workspace in the cloud, with support for running and testing code
 - [sjsakib/cfviz](https://github.com/sjsakib/cfviz) - Visualizes user data from codeforces.com using the official API
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
