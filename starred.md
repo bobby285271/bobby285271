@@ -863,7 +863,7 @@
 - [ng2048/ng2048.github.io](https://github.com/ng2048/ng2048.github.io) - 2048 clone
 - [scnu/SCNUOJ](https://github.com/scnu/SCNUOJ) - 华南师范大学在线测评系统(SCNUOJ)
 - [tanpero/JavaScript-Art-Tour](https://github.com/tanpero/JavaScript-Art-Tour) - 一本从头开始的 JavaScript 书，为了纪念我小学六年级时那段温暖祥和的日子。（请务必参看 README 文件）
-- [HasikSylphon/SCNUSE-Beginners-Guide](https://github.com/HasikSylphon/SCNUSE-Beginners-Guide) - SCNUSE Beginners’ Guide
+- [hsxfjames/SCNUSE-Beginners-Guide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide) - SCNUSE Beginners’ Guide
 - [archlinuxcn/artworks](https://github.com/archlinuxcn/artworks) - Some artworks, belonging to Arch Linux CN Community.
 - [martyr-deepin/dde-desktop](https://github.com/martyr-deepin/dde-desktop) - dde-desktop is now a part of dde-file-manager
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
@@ -1251,7 +1251,7 @@
 - [tokland/arch-bootstrap](https://github.com/tokland/arch-bootstrap) - Bootstrap a base Arch Linux system
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [Chrysostomus/manjaro-architect](https://github.com/Chrysostomus/manjaro-architect) - Development branch of the Architect Installation Framework
-- [AOSC-Dev/autobuild3](https://github.com/AOSC-Dev/autobuild3) - AOSC OS packaging toolkit
+- [AOSC-Dev/autobuild3](https://github.com/AOSC-Dev/autobuild3) - AOSC OS package maintenance toolkit (version 3)
 - [alucryd/aur](https://github.com/alucryd/aur) - PKGBUILD repository
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [UbuntuBudgie/iso-builder](https://github.com/UbuntuBudgie/iso-builder) - Debian Live configuration and scripts for generating ubuntu based images, forked from elementary OS Terraform
