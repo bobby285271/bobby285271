@@ -360,6 +360,7 @@
 
 ## Go 
 
+- [iBug/fakessh](https://github.com/iBug/fakessh) - A fake SSH tarpit that logs commands from attackers
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -808,7 +809,7 @@
 - [skyzh/HallOfShame](https://github.com/skyzh/HallOfShame) - Hall of Shame
 - [condy0919/emacs-newbie](https://github.com/condy0919/emacs-newbie) - Introduction to Emacs
 - [sjtug/mirror-requests](https://github.com/sjtug/mirror-requests) - 新镜像请求 & BUG 汇报
-- [flathub/flathub](https://github.com/flathub/flathub) - Pull requests for new applications to be added
+- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 - [THUSAAC/THUPC2021-pre](https://github.com/THUSAAC/THUPC2021-pre) - THUPC2021 初赛题目
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
@@ -984,7 +985,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :orange_heart: This repository has 563 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :yellow_heart: This repository has 561 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
