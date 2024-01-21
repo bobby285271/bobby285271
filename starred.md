@@ -919,6 +919,7 @@
 
 ## Perl 
 
+- [dataegret/pgcompacttable](https://github.com/dataegret/pgcompacttable) - 
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 
 ## PowerShell 
@@ -985,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :heartpulse: This repository has 563 stars.
+- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :yellow_heart: This repository has 564 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1288,6 +1289,7 @@
 - [iotang/linux_tutorials_for_brand_new_oiers](https://github.com/iotang/linux_tutorials_for_brand_new_oiers) - Linux Tutorials for Brand New Oiers | 给信息组学弟学妹的 Linux 入门手把手教程
 - [LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin) - 上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集
 - [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
+- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [Elitedj/SCNU_BeamerTemplate](https://github.com/Elitedj/SCNU_BeamerTemplate) - 华南师范大学Beamer模板
 
 ## TypeScript 
