@@ -360,7 +360,7 @@
 
 ## Go 
 
-- [iBug/fakessh](https://github.com/iBug/fakessh) - A fake SSH tarpit that logs commands from attackers
+- [iBug/fakessh](https://github.com/iBug/fakessh) - A fake SSH tarpit that logs passwords and commands from attackers
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -986,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :yellow_heart: This repository has 564 stars.
+- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :revolving_hearts: This repository has 564 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
