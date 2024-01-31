@@ -378,7 +378,7 @@
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager
+- [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
 - [a-wing/kiss2ugo](https://github.com/a-wing/kiss2ugo) - Archlinuxcn build API V2 https://build.archlinuxcn.org/api/v2/packages
@@ -422,7 +422,7 @@
 - [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io) - 《京吹学报》
 - [bobby285271/start.bobby285271.top](https://github.com/bobby285271/start.bobby285271.top) - Dasyatis 随手写的简陋起始页
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
-- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️请勿在贡献代码以外的情况下 Fork）
+- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 - [5522MIKE/5522MIKE.github.io](https://github.com/5522MIKE/5522MIKE.github.io) - 个人站点（已停止更新 | 不定时抽风）
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
@@ -986,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :revolving_hearts: This repository has 564 stars.
+- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :heartpulse: This repository has 564 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1308,7 +1308,7 @@
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Milkdown/vscode](https://github.com/Milkdown/vscode) - 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
