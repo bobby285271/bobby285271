@@ -816,11 +816,11 @@
 - [ojhdt/ojhdt](https://github.com/ojhdt/ojhdt) - 
 - [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG) - 程序员要讲码德，耗子尾汁，好好反思！
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
-- [AOSC-Dev/aosc-moe](https://github.com/AOSC-Dev/aosc-moe) - AOSC OS 萌化计划
+- [AOSC-Archive/aosc-moe](https://github.com/AOSC-Archive/aosc-moe) - AOSC OS 萌化计划
 - [lbwang/CINTA-cn](https://github.com/lbwang/CINTA-cn) - 一本数论、代数与算法的入门讲义.
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [hosxy/rime-aurora-pinyin](https://github.com/hosxy/rime-aurora-pinyin) - 【极光拼音】输入方案
-- [AOSC-Dev/aosc-wiki](https://github.com/AOSC-Dev/aosc-wiki) - Wiki.js Git store; edits are done on the wiki site.
+- [AOSC-Archive/aosc-wiki](https://github.com/AOSC-Archive/aosc-wiki) - Wiki.js Git store; edits are done on the wiki site.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [syfxlin/syfxlin](https://github.com/syfxlin/syfxlin) - 
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
@@ -876,7 +876,7 @@
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
-- [AOSC-Dev/aosc-os](https://github.com/AOSC-Dev/aosc-os) - AOSC OS Information, Documentation, and Development Portal
+- [AOSC-Archive/aosc-os](https://github.com/AOSC-Archive/aosc-os) - AOSC OS Information, Documentation, and Development Portal
 
 ## PHP 
 
@@ -986,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :heartpulse: This repository has 564 stars.
+- [iBug/This-Repo-Has-565-Stars](https://github.com/iBug/This-Repo-Has-565-Stars) - Yes, it's true :gift_heart: This repository has 565 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1262,7 +1262,7 @@
 - [linuxdeepin/deepin-icon-theme](https://github.com/linuxdeepin/deepin-icon-theme) - 
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [AOSC-Dev/aosc-os-core](https://github.com/AOSC-Dev/aosc-os-core) - AOSC OS Core: definitions, abbs configurations, and build scripts.
+- [AOSC-Archive/aosc-os-core](https://github.com/AOSC-Archive/aosc-os-core) - AOSC OS Core: definitions, abbs configurations, and build scripts.
 - [Sabayon/sabayon-distro](https://github.com/Sabayon/sabayon-distro) - Portage overlay for Sabayon related ebuilds
 - [910JQK/InstallScripts](https://github.com/910JQK/InstallScripts) - Installation scripts for GNU/Linux distributions
 - [dertasiu/arch-installer](https://github.com/dertasiu/arch-installer) - 
