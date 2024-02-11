@@ -1030,7 +1030,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [zhourongyu/Typecho2Hexo](https://github.com/zhourongyu/Typecho2Hexo) - Typecho 数据的转换
 - [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
-- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
+- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
