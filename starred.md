@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 - [robinastedt/fool_proof_temp_files](https://github.com/robinastedt/fool_proof_temp_files) - A small library to ensure clean up of temp files even on abnormal exit
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [linuxdeepin/linglong](https://github.com/linuxdeepin/linglong) - 
@@ -249,6 +250,7 @@
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [qt/qtstyleplugins](https://github.com/qt/qtstyleplugins) - Additional style plugins for Qt
+- [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [kuangbin/ACM-ICPC](https://github.com/kuangbin/ACM-ICPC) - ACM/ICPC
 - [GNOME/gparted](https://github.com/GNOME/gparted) - Read-only mirror of https://gitlab.gnome.org/GNOME/gparted
 - [5522MIKE/HfmZip](https://github.com/5522MIKE/HfmZip) - 一个越压越大的压缩软件
@@ -849,7 +851,6 @@
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [linuxmint/lmde-4-cinnamon-beta](https://github.com/linuxmint/lmde-4-cinnamon-beta) - Bug squashing for LMDE 4 Cinnamon BETA
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-- [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) - 新型冠状病毒防疫信息收集平台
 - [bobby285271/scnu-wallpapers](https://github.com/bobby285271/scnu-wallpapers) - 华南师范大学『低头抬头皆是景』系列壁纸（DEB 软件包）
 - [iovxw/fcitx5-simple-theme](https://github.com/iovxw/fcitx5-simple-theme) - A simple theme for fcitx5
@@ -985,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :yellow_heart: This repository has 566 stars.
+- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :heart: This repository has 566 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
