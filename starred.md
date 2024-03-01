@@ -942,7 +942,6 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nix-community/label-approved](https://github.com/nix-community/label-approved) - a program to label approved PRs in nixpkgs [maintainer=@Artturin, @delroth]
 - [timokau/nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds. Status: alpha/proof of concept. You'll probably have to dig into the implementation if you want to use it. Built for personal use, lightly maintained. PRs welcome. Issues welcome, b
-- [GNOME/d-feet](https://github.com/GNOME/d-feet) - Read-only mirror of https://gitlab.gnome.org/GNOME/d-feet
 - [invenia/KeepActionsAlive](https://github.com/invenia/KeepActionsAlive) - Prevent scheduled GitHub Actions from becoming disabled after 60 days
 - [BruceZhang1993/FastOCR](https://github.com/BruceZhang1993/FastOCR) - FastOCR 是一款开源免费的提供在线 OCR 文字识别的桌面工具
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
@@ -987,7 +986,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-572-Stars](https://github.com/iBug/This-Repo-Has-572-Stars) - Yes, it's true :yellow_heart: This repository has 572 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :revolving_hearts: This repository has 573 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1062,7 +1061,7 @@
 
 ## RPM Spec 
 
-- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
+- [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
 
 ## Roff 
 
