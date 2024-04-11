@@ -130,7 +130,7 @@
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [GNOME/libadwaita](https://github.com/GNOME/libadwaita) - Read-only mirror of https://gitlab.gnome.org/GNOME/libadwaita
 - [GNOME/libhandy](https://github.com/GNOME/libhandy) - Read-only mirror of https://gitlab.gnome.org/GNOME/libhandy
-- [Rafostar/clapper](https://github.com/Rafostar/clapper) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
+- [Rafostar/clapper](https://github.com/Rafostar/clapper) - Level up your video experience with a modern and user-friendly media player.
 - [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
 - [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [mcpcpc/kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.
@@ -478,7 +478,7 @@
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、
 - [mbientlab/MetaWear-SDK-Android](https://github.com/mbientlab/MetaWear-SDK-Android) - MetaWear Java SDK - Android - Google - Android Studio
 - [caozongpeng/SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) - 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。
-- [byteblogs168/plumemo](https://github.com/byteblogs168/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
+- [open-snail/plumemo](https://github.com/open-snail/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [y894577/SalaryManagementSystem](https://github.com/y894577/SalaryManagementSystem) - 一人全栈系列
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
@@ -575,6 +575,7 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [ihewro/pure_internet](https://github.com/ihewro/pure_internet) - 纯净互联网，摆脱花边新闻的推荐干扰
+- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [yremp/yremp-js](https://github.com/yremp/yremp-js) - js of website
 - [soulteary/youling](https://github.com/soulteary/youling) - Ghost CJK Version. 既然官方不喜欢非英文用户，那么就不提PR了，顺便用换个非英文名好了。
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -725,7 +726,6 @@
 - [npmccallum/nixos-sgx](https://github.com/npmccallum/nixos-sgx) - 
 - [siers/dotfiles](https://github.com/siers/dotfiles) - My personal dotfiles.
 - [berthoogsteyns/dotfiles](https://github.com/berthoogsteyns/dotfiles) - 
-- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [jcleng/nixos-configuration](https://github.com/jcleng/nixos-configuration) - nixos 自用配置
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
@@ -840,7 +840,7 @@
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [byteblogs168/theme-react-sakura](https://github.com/byteblogs168/theme-react-sakura) - 使用react开发个人helloblog-sakura博客主题
+- [open-snail/theme-react-sakura](https://github.com/open-snail/theme-react-sakura) - 使用react开发个人helloblog-sakura博客主题
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [brenner8023/gdut-course](https://github.com/brenner8023/gdut-course) - 广东工业大学计算机学院课程攻略 - 毕业设计、校招、课程设计、实验、经验分享、论文模板、试卷、习题解答等等
@@ -868,7 +868,7 @@
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [debiancn/repo](https://github.com/debiancn/repo) - Debian CN Community Repo
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
@@ -1379,7 +1379,7 @@
 
 ## Vue 
 
-- [byteblogs168/plumemo-admin](https://github.com/byteblogs168/plumemo-admin) - plumemo 后端管理系统
+- [open-snail/plumemo-admin](https://github.com/open-snail/plumemo-admin) - plumemo 后端管理系统
 - [luogu-dev/luogu-blog-frontend](https://github.com/luogu-dev/luogu-blog-frontend) - Frontend Theme Packs for Luogu Blog.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
