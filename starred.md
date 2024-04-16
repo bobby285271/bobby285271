@@ -997,7 +997,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
-- [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
+- [aropan/clist](https://github.com/aropan/clist) - Your comprehensive guide to global programming contests. Track events, get details, and never miss a competition.
 - [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 - [mdminhazulhaque/PyQt-BPNN](https://github.com/mdminhazulhaque/PyQt-BPNN) - :parking: Back-Propagation Neural Networks example using PyQt GUI
 - [penguin1214/classification](https://github.com/penguin1214/classification) - Three-layer BP neural network used to classify Iris dataset.
