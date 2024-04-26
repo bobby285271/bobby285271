@@ -127,7 +127,7 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) - ninja-compatible build tool written in C
-- [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+- [ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [GNOME/libadwaita](https://github.com/GNOME/libadwaita) - Read-only mirror of https://gitlab.gnome.org/GNOME/libadwaita
 - [GNOME/libhandy](https://github.com/GNOME/libhandy) - Read-only mirror of https://gitlab.gnome.org/GNOME/libhandy
 - [Rafostar/clapper](https://github.com/Rafostar/clapper) - Level up your video experience with a modern and user-friendly media player.
@@ -388,7 +388,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -539,7 +538,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -982,7 +981,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :gift_heart: This repository has 576 stars.
+- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :sparkling_heart: This repository has 576 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1317,7 +1316,7 @@
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-- [southern-aurora/milkio](https://github.com/southern-aurora/milkio) - ✨ A Pleasant Framework - Serverless First, TypeScript Only, Support for All JavaScript Runtimes
+- [akirarika/milkio](https://github.com/akirarika/milkio) - ✨ A Pleasant Framework - Serverless First, TypeScript Only, Support for All JavaScript Runtimes
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
 - [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) - vscode qq extension based on android qq protocol
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
@@ -1340,6 +1339,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [0xffff-one/0xffff-coolq](https://github.com/0xffff-one/0xffff-coolq) - 0xFFFF CoolQ 新帖子自动推送
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 - [iscnu/scnu-mp](https://github.com/iscnu/scnu-mp) - 微信小程序「SCNU」
