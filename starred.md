@@ -691,7 +691,6 @@
 - [balsoft/nixos-fhs-compat](https://github.com/balsoft/nixos-fhs-compat) - LSB&FHS compatibility for NixOS. Intended for containers and VMs.
 - [oxalica/nixos-config](https://github.com/oxalica/nixos-config) - My nixos configs
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [HougeLangley/Nix-Note](https://github.com/HougeLangley/Nix-Note) - 
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [VergeDX/config-nixpkgs](https://github.com/VergeDX/config-nixpkgs) - Config of NixOS - Laptop, Raspi & home-manager.
@@ -981,7 +980,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :gift_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :revolving_hearts: This repository has 578 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1217,7 +1216,6 @@
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [iotang/archliveiso](https://github.com/iotang/archliveiso) - 装了图形界面的 Arch Linux Live 镜像
 - [FFY00/arch-python-repo](https://github.com/FFY00/arch-python-repo) - Arch Linux Multi-version Python Repository
 - [archlinuxhardened/selinux](https://github.com/archlinuxhardened/selinux) - PKGBUILDs to build SELinux enabled packages for Arch Linux
 - [microcai/gentoo-zh](https://github.com/microcai/gentoo-zh) - Overlay for Gentoo Users.
@@ -1249,7 +1247,7 @@
 - [tokland/arch-bootstrap](https://github.com/tokland/arch-bootstrap) - Bootstrap a base Arch Linux system
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [Chrysostomus/manjaro-architect](https://github.com/Chrysostomus/manjaro-architect) - Development branch of the Architect Installation Framework
-- [AOSC-Dev/autobuild3](https://github.com/AOSC-Dev/autobuild3) - AOSC OS package maintenance toolkit (version 3)
+- [AOSC-Archive/autobuild3](https://github.com/AOSC-Archive/autobuild3) - AOSC OS package maintenance toolkit (version 3)
 - [alucryd/aur](https://github.com/alucryd/aur) - PKGBUILD repository
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [UbuntuBudgie/iso-builder](https://github.com/UbuntuBudgie/iso-builder) - Debian Live configuration and scripts for generating ubuntu based images, forked from elementary OS Terraform
@@ -1305,6 +1303,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Milkdown/vscode](https://github.com/Milkdown/vscode) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
