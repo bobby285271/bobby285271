@@ -925,6 +925,7 @@
 
 ## Python 
 
+- [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen desktop widgets python framework with GTK+
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
@@ -935,7 +936,7 @@
 - [NixOS/calamares-nixos-extensions](https://github.com/NixOS/calamares-nixos-extensions) - NixOS calamares [maintainer=@vlinkz]
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [nix-community/label-approved](https://github.com/nix-community/label-approved) - a program to label approved PRs in nixpkgs [maintainer=@Artturin, @delroth]
+- [nix-community/label-approved](https://github.com/nix-community/label-approved) - a program to label approved PRs in nixpkgs [maintainer=@Artturin]
 - [timokau/nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds. Status: alpha/proof of concept. You'll probably have to dig into the implementation if you want to use it. Built for personal use, lightly maintained. PRs welcome. Issues welcome, b
 - [invenia/KeepActionsAlive](https://github.com/invenia/KeepActionsAlive) - Prevent scheduled GitHub Actions from becoming disabled after 60 days
 - [BruceZhang1993/FastOCR](https://github.com/BruceZhang1993/FastOCR) - FastOCR 是一款开源免费的提供在线 OCR 文字识别的桌面工具
@@ -980,7 +981,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :purple_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :heart: This repository has 578 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1120,7 +1121,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [pkgw/elfx86exts](https://github.com/pkgw/elfx86exts) - Decode binaries and print out which instruction set extensions they use. This program's name is a lie: it supports not just x86/ELF but also ARM64, MachO, and possibly more.
 - [AOSC-Dev/rime-schema-manager](https://github.com/AOSC-Dev/rime-schema-manager) - RIME schema configuration manager
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [AOSC-Dev/aoscbootstrap](https://github.com/AOSC-Dev/aoscbootstrap) - A tool for bootstrapping and releasing AOSC OS distributions
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1366,7 +1367,7 @@
 - [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint) - Check code-style of Vala code files
 - [phase1geo/Annotator](https://github.com/phase1geo/Annotator) - Image annotation for Elementary OS
 - [GNOME/vala-extra-vapis](https://github.com/GNOME/vala-extra-vapis) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala-extra-vapis
-- [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system settings panel for the Pantheon desktop environment.
+- [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system customization app for the Pantheon desktop environment.
 - [bluesabre/darkbar](https://github.com/bluesabre/darkbar) - Darken window titlebars based on your preference. Made for elementary OS and GNOME.
 - [vala-lang/vala-language-server](https://github.com/vala-lang/vala-language-server) - Code Intelligence for Vala & Genie
 - [GNOME/vala](https://github.com/GNOME/vala) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala
