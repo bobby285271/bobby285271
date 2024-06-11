@@ -479,6 +479,7 @@
 - [mbientlab/MetaWear-SDK-Android](https://github.com/mbientlab/MetaWear-SDK-Android) - MetaWear Java SDK - Android - Google - Android Studio
 - [caozongpeng/SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) - 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。
 - [open-snail/plumemo](https://github.com/open-snail/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [y894577/SalaryManagementSystem](https://github.com/y894577/SalaryManagementSystem) - 一人全栈系列
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
@@ -786,7 +787,6 @@
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [awesome-iupc2021/awesome-iupc2021](https://github.com/awesome-iupc2021/awesome-iupc2021) - 
 - [KaneGreen/idontwantqqprotect](https://github.com/KaneGreen/idontwantqqprotect) - I don't want QQProtect
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [gtf35/how-to-check-sign](https://github.com/gtf35/how-to-check-sign) - 如何把签名校验做到极致
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
@@ -918,6 +918,7 @@
 
 ## PowerShell 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -1339,7 +1340,6 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [0xffff-one/0xffff-coolq](https://github.com/0xffff-one/0xffff-coolq) - 0xFFFF CoolQ 新帖子自动推送
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 - [iscnu/scnu-mp](https://github.com/iscnu/scnu-mp) - 微信小程序「SCNU」
