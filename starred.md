@@ -389,6 +389,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -479,7 +480,6 @@
 - [mbientlab/MetaWear-SDK-Android](https://github.com/mbientlab/MetaWear-SDK-Android) - MetaWear Java SDK - Android - Google - Android Studio
 - [caozongpeng/SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) - 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。
 - [open-snail/plumemo](https://github.com/open-snail/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [y894577/SalaryManagementSystem](https://github.com/y894577/SalaryManagementSystem) - 一人全栈系列
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
@@ -670,6 +670,7 @@
 ## Markdown 
 
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
+- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 
 ## Meson 
 
@@ -743,6 +744,7 @@
 
 ## Others 
 
+- [anitabi/anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 - [flathub/xyz.tytanium.DoorKnocker](https://github.com/flathub/xyz.tytanium.DoorKnocker) - 
 - [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 - [ArkToria/the_wayland_protocol_zh_CN](https://github.com/ArkToria/the_wayland_protocol_zh_CN) - The Wayland Protocol（自译中文版）
@@ -831,7 +833,6 @@
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [adi1090x/CustomArch](https://github.com/adi1090x/CustomArch) - Arch Linux Based Custom ISOs Made With "Archiso"
 - [qingshuisiyuan/electron-ssr-backup](https://github.com/qingshuisiyuan/electron-ssr-backup) - electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜
-- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -982,7 +983,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-579-Stars](https://github.com/iBug/This-Repo-Has-579-Stars) - Yes, it's true :heartpulse: This repository has 579 stars.
+- [iBug/This-Repo-Has-580-Stars](https://github.com/iBug/This-Repo-Has-580-Stars) - Yes, it's true :sparkling_heart: This repository has 580 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
