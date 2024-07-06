@@ -197,7 +197,7 @@
 - [willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 - [robinastedt/fool_proof_temp_files](https://github.com/robinastedt/fool_proof_temp_files) - A small library to ensure clean up of temp files even on abnormal exit
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
-- [linuxdeepin/linglong](https://github.com/linuxdeepin/linglong) - 
+- [OpenAtomFoundation/linglong](https://github.com/OpenAtomFoundation/linglong) - 
 - [linuxdeepin/dde-session](https://github.com/linuxdeepin/dde-session) - New deepin session, based on systemd and existing projects.
 - [GhostFrankWu/WinHookAll](https://github.com/GhostFrankWu/WinHookAll) - 锁定Windows的鼠标，键盘，并屏蔽Ctrl+Alt+Del等热键 Hook mouse, keyboard and winlogin. 方便笔记本擦键盘
 - [DMarked/DMarked](https://github.com/DMarked/DMarked) - dtk based markdown editor
@@ -288,7 +288,7 @@
 - [Automattic/themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
 - [bobby285271/SoCoding2019-1024-level7-src](https://github.com/bobby285271/SoCoding2019-1024-level7-src) - 2019 年软协 1024 活动第七关源码
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
-- [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
+- [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [iscnu/scnu-schedule-ical](https://github.com/iscnu/scnu-schedule-ical) - 课表转 ical 日历
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
