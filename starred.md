@@ -867,7 +867,6 @@
 - [debiancn/repo](https://github.com/debiancn/repo) - Debian CN Community Repo
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [AOSC-Archive/aosc-os](https://github.com/AOSC-Archive/aosc-os) - AOSC OS Information, Documentation, and Development Portal
 
@@ -982,7 +981,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-581-Stars](https://github.com/iBug/This-Repo-Has-581-Stars) - Yes, it's true :sparkling_heart: This repository has 581 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heart: This repository has 583 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1244,6 +1243,7 @@
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [archlinux/asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [tokland/arch-bootstrap](https://github.com/tokland/arch-bootstrap) - Bootstrap a base Arch Linux system
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [Chrysostomus/manjaro-architect](https://github.com/Chrysostomus/manjaro-architect) - Development branch of the Architect Installation Framework
