@@ -566,6 +566,7 @@
 - [project-foohoro/SPICE-and-Wolf](https://github.com/project-foohoro/SPICE-and-Wolf) - (Pending) A simple Chinese guide for new GNU/Linux user.
 - [ekzhang/wkspace](https://github.com/ekzhang/wkspace) - Competitive programming workspace in the cloud, with support for running and testing code
 - [sjsakib/cfviz](https://github.com/sjsakib/cfviz) - Visualizes user data from codeforces.com using the official API
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [kasuganosoras/cxk-ball](https://github.com/kasuganosoras/cxk-ball) - 🏀 Javascript 实现的 CXK 打篮球游戏
 - [iotang/cxk-ball](https://github.com/iotang/cxk-ball) - 🏀 Javascript 实现的 CXK 打篮球游戏
 - [Dreamer-Paul/KStart](https://github.com/Dreamer-Paul/KStart) - ☕ 一个简洁轻巧的公共起始页服务
@@ -1331,7 +1332,6 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
