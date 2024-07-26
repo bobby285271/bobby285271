@@ -927,7 +927,6 @@
 
 - [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen framework for building desktop widgets using Python
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
@@ -1080,6 +1079,7 @@
 
 - [gnattu/p2p-clipboard](https://github.com/gnattu/p2p-clipboard) - A Peer-to-Peer cross-platform clipboard syncing tool.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
