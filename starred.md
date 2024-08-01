@@ -1147,7 +1147,7 @@
 - [vinceliuice/Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
 - [ZoeyWoohoo/Minimalism](https://github.com/ZoeyWoohoo/Minimalism) - Minimalism is a Jekyll theme for minimalist!
 - [samarsault/texture](https://github.com/samarsault/texture) - A configurable jekyll theme for simply beautiful blogs.
-- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com
+- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app
 - [CloudCannon/frisco-jekyll-template](https://github.com/CloudCannon/frisco-jekyll-template) - :iphone: App marketing template for Jekyll
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [andrewbanchich/forty-jekyll-theme](https://github.com/andrewbanchich/forty-jekyll-theme) - A Jekyll version of the "Forty" theme by HTML5 UP.
