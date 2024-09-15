@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Bobby Rong
+description: 一つの夢 叶うまで負けない 行くよ
+show_downloads: false
