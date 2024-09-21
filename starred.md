@@ -390,6 +390,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -508,7 +509,6 @@
 - [45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator) - A Featureful File Browser for Cockpit
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [Gun9niR/auto-grade](https://github.com/Gun9niR/auto-grade) - 上海交通大学自动评教脚本
-- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
@@ -793,7 +793,7 @@
 - [KaneGreen/idontwantqqprotect](https://github.com/KaneGreen/idontwantqqprotect) - I don't want QQProtect
 - [gtf35/how-to-check-sign](https://github.com/gtf35/how-to-check-sign) - 如何把签名校验做到极致
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
-- [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - 「jf open 粉圓」是基於 Kosugi Maru 改作， 由 justfont 設計師針對台灣日常應用加以優化的開源字型。 歡迎大家自由應用、自由調整、自由改作！
+- [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - "jf open-huninn" ("jf open 粉圓") is an open-source Traditional Chinese typeface based on Kosugi Maru and Varela Round, adjusted by the designers at justfont for everyday use in Taiwan.
 - [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -981,7 +981,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :heartpulse: This repository has 585 stars.
+- [iBug/This-Repo-Has-587-Stars](https://github.com/iBug/This-Repo-Has-587-Stars) - Yes, it's true :heartbeat: This repository has 587 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1299,6 +1299,7 @@
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
+- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Milkdown/vscode](https://github.com/Milkdown/vscode) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
@@ -1337,7 +1338,6 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [0xffff-one/0xffff-coolq](https://github.com/0xffff-one/0xffff-coolq) - 0xFFFF CoolQ 新帖子自动推送
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 - [iscnu/scnu-mp](https://github.com/iscnu/scnu-mp) - 微信小程序「SCNU」
