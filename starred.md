@@ -390,7 +390,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1338,6 +1337,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [0xffff-one/0xffff-coolq](https://github.com/0xffff-one/0xffff-coolq) - 0xFFFF CoolQ 新帖子自动推送
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 - [iscnu/scnu-mp](https://github.com/iscnu/scnu-mp) - 微信小程序「SCNU」
