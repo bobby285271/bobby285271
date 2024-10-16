@@ -710,7 +710,6 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
-- [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [iosmanthus/nixos-config](https://github.com/iosmanthus/nixos-config) - iosmanthus's nixos configuration
 - [bobby285271/nixos-config](https://github.com/bobby285271/nixos-config) - My NixOS configuration files
 - [jonringer/nixos-configurations](https://github.com/jonringer/nixos-configurations) - NixOS configurations that I use
@@ -925,6 +924,7 @@
 
 ## Python 
 
+- [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算_已达到0.00s
 - [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen framework for building desktop widgets using Python (check the rewrite branch for progress)
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
@@ -1085,7 +1085,7 @@
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [Ekleog/nixpkgs-check](https://github.com/Ekleog/nixpkgs-check) - 
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
-- [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nixpkgs pull request review website
+- [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
