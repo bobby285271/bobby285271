@@ -276,6 +276,7 @@
 ## CSS 
 
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) - A lightweight Python script to help you select the fastest IP addresses for Microsoft services.
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
@@ -670,7 +671,6 @@
 
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 
 ## Meson 
 
@@ -962,7 +962,6 @@
 - [cs50/lib50](https://github.com/cs50/lib50) - This is lib50, CS50's own internal library used in many of its tools.
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [timokau/marvin-mk2](https://github.com/timokau/marvin-mk2) - Discontinued! See https://github.com/timokau/marvin-mk2/issues/34#issuecomment-1100656280 (Previously: "Making sure your PR gets a review and your reviews don't get lost.")
-- [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs
@@ -980,7 +979,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :heartpulse: This repository has 591 stars.
+- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :purple_heart: This repository has 592 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1302,7 +1301,7 @@
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Milkdown/vscode](https://github.com/Milkdown/vscode) - 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
