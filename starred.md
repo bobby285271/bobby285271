@@ -293,7 +293,7 @@
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [iscnu/scnu-schedule-ical](https://github.com/iscnu/scnu-schedule-ical) - 课表转 ical 日历
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
-- [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
+- [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/
 - [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
 - [cyevgeniy/jekyll-true-minimal](https://github.com/cyevgeniy/jekyll-true-minimal) - Minimal and ascetic theme for jekyll
 - [mzlogin/jekyll-theme-solid](https://github.com/mzlogin/jekyll-theme-solid) - A simple and clean jekyll theme without javascript
@@ -979,7 +979,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :purple_heart: This repository has 592 stars.
+- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :yellow_heart: This repository has 591 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
