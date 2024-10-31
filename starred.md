@@ -655,6 +655,7 @@
 
 ## Lua 
 
+- [berthoogsteyns/dotfiles](https://github.com/berthoogsteyns/dotfiles) - 
 - [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
@@ -725,7 +726,6 @@
 - [adisbladis/nixconfig](https://github.com/adisbladis/nixconfig) - My nixos config
 - [npmccallum/nixos-sgx](https://github.com/npmccallum/nixos-sgx) - 
 - [siers/dotfiles](https://github.com/siers/dotfiles) - My personal dotfiles.
-- [berthoogsteyns/dotfiles](https://github.com/berthoogsteyns/dotfiles) - 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [jcleng/nixos-configuration](https://github.com/jcleng/nixos-configuration) - nixos 自用配置
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
@@ -979,7 +979,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :yellow_heart: This repository has 591 stars.
+- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :sparkling_heart: This repository has 591 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1042,7 +1042,7 @@
 - [linuxmint/mintupgrade-legacy](https://github.com/linuxmint/mintupgrade-legacy) - Tool to upgrade from one LTS to another.
 - [snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme) - Moka Icon Theme
 - [910JQK/tieba-fetch](https://github.com/910JQK/tieba-fetch) - A tool script to fetch data from Baidu Tieba
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) - Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) - Documentation for USTC Mirrors
 - [Sabayon/entropy](https://github.com/Sabayon/entropy) - Entropy Package Manager
 - [K-Guan/tedit](https://github.com/K-Guan/tedit) - TEdit - Temporary file Editor
 
