@@ -926,7 +926,7 @@
 
 - [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算_已达到0.00s
 - [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
-- [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen framework for building desktop widgets using Python
+- [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
@@ -957,7 +957,6 @@
 - [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) - Add filters (background blur, etc) to your webcam on Linux.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin]
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [cs50/lib50](https://github.com/cs50/lib50) - This is lib50, CS50's own internal library used in many of its tools.
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
@@ -979,7 +978,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-594-Stars](https://github.com/iBug/This-Repo-Has-594-Stars) - Yes, it's true :gift_heart: This repository has 594 stars.
+- [iBug/This-Repo-Has-596-Stars](https://github.com/iBug/This-Repo-Has-596-Stars) - Yes, it's true :heartbeat: This repository has 596 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1010,7 +1009,7 @@
 - [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
 - [phith0n/mooder](https://github.com/phith0n/mooder) - Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。
 - [hrko/fcitx-skin-material](https://github.com/hrko/fcitx-skin-material) - A Material Design-like skin for Fcitx.
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [AlanDecode/Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
 - [edwardzpeng/shadowsocks](https://github.com/edwardzpeng/shadowsocks) - Redirect attack on Shadowsocks stream ciphers
@@ -1101,6 +1100,7 @@
 - [withoutboats/pbp](https://github.com/withoutboats/pbp) - pretty bad protocol
 - [withoutboats/bpb](https://github.com/withoutboats/bpb) - boats's personal barricade
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
+- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [gtk-rs/gtk-rs-core](https://github.com/gtk-rs/gtk-rs-core) - Rust bindings for GNOME libraries
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
