@@ -995,7 +995,7 @@
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [aropan/clist](https://github.com/aropan/clist) - Your comprehensive guide to global programming contests. Track events, get details, and never miss a competition.
 - [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-- [mdminhazulhaque/PyQt-BPNN](https://github.com/mdminhazulhaque/PyQt-BPNN) - :parking: Back-Propagation Neural Networks example using PyQt GUI
+- [mdminhazulhaque/pyqt-bpnn](https://github.com/mdminhazulhaque/pyqt-bpnn) - :parking: Back-Propagation Neural Networks example using PyQt GUI
 - [penguin1214/classification](https://github.com/penguin1214/classification) - Three-layer BP neural network used to classify Iris dataset.
 - [tjaume/BPNeuralNetworks](https://github.com/tjaume/BPNeuralNetworks) - 利用Python实现三层BP神经网络
 - [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - use svm to hack simple captcha
@@ -1361,7 +1361,7 @@
 
 ## Vala 
 
-- [wineee/deepin-terminal-gtk](https://github.com/wineee/deepin-terminal-gtk) - Fork from https://github.com/martyr-deepin/deepin-terminal-gtk
+- [dwapp/deepin-terminal-gtk](https://github.com/dwapp/deepin-terminal-gtk) - Fork from https://github.com/martyr-deepin/deepin-terminal-gtk
 - [lenemter/wingpanel-indicator-namarupa](https://github.com/lenemter/wingpanel-indicator-namarupa) - Unofficial Ayatana compatibility layer for Wingpanel
 - [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint) - Check code-style of Vala code files
 - [phase1geo/Annotator](https://github.com/phase1geo/Annotator) - Image annotation for Elementary OS
