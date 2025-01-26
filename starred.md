@@ -755,7 +755,6 @@
 - [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [redbearder/The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS) - The Site Reliability Workbook 站点可靠性工作手册 中文版
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
-- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
@@ -979,7 +978,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-599-Stars](https://github.com/iBug/This-Repo-Has-599-Stars) - Yes, it's true :heart: This repository has 599 stars.
+- [iBug/This-Repo-Has-599-Stars](https://github.com/iBug/This-Repo-Has-599-Stars) - Yes, it's true :purple_heart: This repository has 599 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1067,6 +1066,7 @@
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [ruby-china/homeland](https://github.com/ruby-china/homeland) - :circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
