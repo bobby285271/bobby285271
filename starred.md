@@ -270,6 +270,7 @@
 
 ## CMake 
 
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [jtojnar/cmake-snips](https://github.com/jtojnar/cmake-snips) - Portability problems I frequently encounter in projects using CMake
 - [wzpan/cmake-demo](https://github.com/wzpan/cmake-demo) - 《CMake入门实战》源码
 - [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
@@ -541,7 +542,7 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -970,13 +971,13 @@
 - [samuela/nixos-up](https://github.com/samuela/nixos-up) - The fastest NixOS install there is! 🏎️🏁
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新，当前专注System基础、MLSys。
+- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新
 - [RimoChan/steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-602-Stars](https://github.com/iBug/This-Repo-Has-602-Stars) - Yes, it's true :sparkling_heart: This repository has 602 stars.
+- [iBug/This-Repo-Has-602-Stars](https://github.com/iBug/This-Repo-Has-602-Stars) - Yes, it's true :heartpulse: This repository has 602 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1180,7 +1181,6 @@
 - [parkhub/github-action-release-rebase](https://github.com/parkhub/github-action-release-rebase) - Rebase a lower environment branch with the recursive, theirs strategy
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [msteen/nix-prefetch](https://github.com/msteen/nix-prefetch) - Prefetch any fetcher function call, e.g. a package source
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
@@ -1362,7 +1362,7 @@
 
 ## Vala 
 
-- [dwapp/deepin-terminal-gtk](https://github.com/dwapp/deepin-terminal-gtk) - Fork from https://github.com/martyr-deepin/deepin-terminal-gtk
+- [wineee/deepin-terminal-gtk](https://github.com/wineee/deepin-terminal-gtk) - Fork from https://github.com/martyr-deepin/deepin-terminal-gtk
 - [lenemter/wingpanel-indicator-namarupa](https://github.com/lenemter/wingpanel-indicator-namarupa) - Unofficial Ayatana compatibility layer for Wingpanel
 - [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint) - Check code-style of Vala code files
 - [phase1geo/Annotator](https://github.com/phase1geo/Annotator) - Image annotation for Elementary OS
