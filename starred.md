@@ -542,7 +542,7 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
