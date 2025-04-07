@@ -6,4 +6,4 @@ I don’t use this GitHub account for work, most of my contributions during free
 You can check the list of packages I maintain on [Repology](https://repology.org/maintainer/rjl931189261@126.com),
 or view some of my upstream contributions [here](https://github.com/search?q=author:bobby285271+-org:NixOS&type=pullrequests) or at [gitlab.xfce.org](https://gitlab.xfce.org/bobby285271).
 
-I play Gakumas (学マス) and my P-ID is `S3FDDNTJ` :-)
+I play *Gakumas* (S3FDDNTJ) and recently also start playing *Song for Prism* (PTAC8M7WW) :-)
