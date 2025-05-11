@@ -574,7 +574,7 @@
 - [iotang/cxk-ball](https://github.com/iotang/cxk-ball) - 🏀 Javascript 实现的 CXK 打篮球游戏
 - [Dreamer-Paul/KStart](https://github.com/Dreamer-Paul/KStart) - ☕ 一个简洁轻巧的公共起始页服务
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
-- [maliangnansheng/bbs-ssm](https://github.com/maliangnansheng/bbs-ssm) - 南生论坛基于SSM框架，自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：https://www.nanshengbbs.top
+- [maliangnansheng/bbs-ssm](https://github.com/maliangnansheng/bbs-ssm) - 南生论坛基于SSM框架，自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：https://ssm.nansin.top
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [ihewro/pure_internet](https://github.com/ihewro/pure_internet) - 纯净互联网，摆脱花边新闻的推荐干扰
@@ -673,7 +673,7 @@
 
 ## Markdown 
 
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Meson 
@@ -979,7 +979,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-611-Stars](https://github.com/iBug/This-Repo-Has-611-Stars) - Yes, it's true :yellow_heart: This repository has 611 stars.
+- [iBug/This-Repo-Has-611-Stars](https://github.com/iBug/This-Repo-Has-611-Stars) - Yes, it's true :heartbeat: This repository has 611 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
