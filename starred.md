@@ -437,6 +437,7 @@
 - [codingXiaxw/HappyBirthday](https://github.com/codingXiaxw/HappyBirthday) - Give a blessing to her on my girlfriend's birthday
 - [neoFelhz/hexo-theme-spectre](https://github.com/neoFelhz/hexo-theme-spectre) - A modern, simple & elegant theme for Hexo
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
+- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 - [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 - [FiveYellowMice/fiveyellowmice.com](https://github.com/FiveYellowMice/fiveyellowmice.com) - FiveYellowMice's Blog
 
@@ -978,7 +979,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-611-Stars](https://github.com/iBug/This-Repo-Has-611-Stars) - Yes, it's true :heartpulse: This repository has 611 stars.
+- [iBug/This-Repo-Has-612-Stars](https://github.com/iBug/This-Repo-Has-612-Stars) - Yes, it's true :heart: This repository has 612 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1249,7 +1250,6 @@
 - [alucryd/aur](https://github.com/alucryd/aur) - PKGBUILD repository
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [UbuntuBudgie/iso-builder](https://github.com/UbuntuBudgie/iso-builder) - Debian Live configuration and scripts for generating ubuntu based images, forked from elementary OS Terraform
-- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 - [linuxdeepin/deepin-icon-theme](https://github.com/linuxdeepin/deepin-icon-theme) - 
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
