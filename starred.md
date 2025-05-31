@@ -425,7 +425,6 @@
 - [bobby285271/codeforces-ladders](https://github.com/bobby285271/codeforces-ladders) - Web 前端设计与开发大作业阉割版
 - [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io) - 《京吹学报》
 - [bobby285271/start.bobby285271.top](https://github.com/bobby285271/start.bobby285271.top) - Dasyatis 随手写的简陋起始页
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 - [5522MIKE/5522MIKE.github.io](https://github.com/5522MIKE/5522MIKE.github.io) - 个人站点（已停止更新 | 不定时抽风）
@@ -674,7 +673,7 @@
 
 ## Markdown 
 
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Meson 
@@ -712,8 +711,9 @@
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]
 - [iosmanthus/nixos-config](https://github.com/iosmanthus/nixos-config) - iosmanthus's nixos configuration
 - [bobby285271/nixos-config](https://github.com/bobby285271/nixos-config) - My NixOS configuration files
 - [jonringer/nixos-configurations](https://github.com/jonringer/nixos-configurations) - NixOS configurations that I use
@@ -961,7 +961,6 @@
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [cs50/lib50](https://github.com/cs50/lib50) - This is lib50, CS50's own internal library used in many of its tools.
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [timokau/marvin-mk2](https://github.com/timokau/marvin-mk2) - Discontinued! See https://github.com/timokau/marvin-mk2/issues/34#issuecomment-1100656280 (Previously: "Making sure your PR gets a review and your reviews don't get lost.")
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
@@ -1006,6 +1005,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [RimoChan/Night-Beam](https://github.com/RimoChan/Night-Beam) - 【Night Beam】去除文本马赛克的随机算法！
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [y894577/FocusDiscrimination](https://github.com/y894577/FocusDiscrimination) - 专注度评价系统，负优化系列（逃）
 - [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
 - [phith0n/mooder](https://github.com/phith0n/mooder) - Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。
