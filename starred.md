@@ -217,7 +217,7 @@
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [ftiasch/ccpc-final-2020](https://github.com/ftiasch/ccpc-final-2020) - 
 - [wellington/go-libsass](https://github.com/wellington/go-libsass) - Go wrapper for libsass, the only Sass 3.5 compiler for Go
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [GassaFM/olymp.sty](https://github.com/GassaFM/olymp.sty) - LATEX package for creating statements for programming contest problems
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -610,7 +610,7 @@
 - [y894577/2019scnu1024](https://github.com/y894577/2019scnu1024) - 2019scnu1024
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [paulbjensen/cross-platform-desktop-applications](https://github.com/paulbjensen/cross-platform-desktop-applications) - Code examples for the book "Cross Platform Desktop Applications"
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
+- [electron/minimal-repro](https://github.com/electron/minimal-repro) - Clone to try a simple Electron app
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [zhblue/hustoj](https://github.com/zhblue/hustoj) - Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
@@ -714,7 +714,6 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]
-- [iosmanthus/nixos-config](https://github.com/iosmanthus/nixos-config) - iosmanthus's nixos configuration
 - [bobby285271/nixos-config](https://github.com/bobby285271/nixos-config) - My NixOS configuration files
 - [jonringer/nixos-configurations](https://github.com/jonringer/nixos-configurations) - NixOS configurations that I use
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
@@ -978,7 +977,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-612-Stars](https://github.com/iBug/This-Repo-Has-612-Stars) - Yes, it's true :heart: This repository has 612 stars.
+- [iBug/This-Repo-Has-611-Stars](https://github.com/iBug/This-Repo-Has-611-Stars) - Yes, it's true :two_hearts: This repository has 611 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
