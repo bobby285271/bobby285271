@@ -726,7 +726,7 @@
 - [adisbladis/nixconfig](https://github.com/adisbladis/nixconfig) - My nixos config
 - [npmccallum/nixos-sgx](https://github.com/npmccallum/nixos-sgx) - 
 - [siers/dotfiles](https://github.com/siers/dotfiles) - My personal dotfiles.
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [jcleng/nixos-configuration](https://github.com/jcleng/nixos-configuration) - nixos 自用配置
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 
@@ -879,7 +879,7 @@
 - [naicfeng/typecho-Authenticator](https://github.com/naicfeng/typecho-Authenticator) - Typecho的Google Authenticator插件
 - [liuzhen153/thinkphp5-demo](https://github.com/liuzhen153/thinkphp5-demo) - 一步步学会使用PHP基础，学会使用ThinkPHP5进行基础实战开发。文档地址：https://www.kancloud.cn/liuzhen153/tp5-demo
 - [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-- [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+- [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——二十年匠心的高性能PHP框架
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
