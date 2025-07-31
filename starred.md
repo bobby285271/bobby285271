@@ -324,6 +324,7 @@
 
 ## CoffeeScript 
 
+- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [chinakids/atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 
 ## D 
@@ -492,7 +493,7 @@
 
 ## JavaScript 
 
-- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+- [surisuririsu/gakumas-tools](https://github.com/surisuririsu/gakumas-tools) - Tools for playing Gakuen Idolmaster
 - [yueyericardo/Netease-to-Youtube-or-Spotify](https://github.com/yueyericardo/Netease-to-Youtube-or-Spotify) - 迁移你的网易云歌单到 Apple Music, Youtube or Spotify. Easily transfer your Netease music playlist to Apple Music, Youtube or  Spotify
 - [TransparentLC/saizeriya](https://github.com/TransparentLC/saizeriya) - 萨莉亚随机点餐（Saizeriya random dish picker/サイゼリヤ ガチャ）
 - [AlynxZhou/gnome-shell-extension-sb-counter](https://github.com/AlynxZhou/gnome-shell-extension-sb-counter) - A counter to count how many times you are interrupted by SBs.
@@ -1283,7 +1284,7 @@
 
 ## TypeScript 
 
-- [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+- [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 - [HGGshiwo/Sakura](https://github.com/HGGshiwo/Sakura) - 樱花动漫网站的移动端，解析樱花动漫网站。使用react-native编写。
 - [zhengbangbo/chat-simplifier](https://github.com/zhengbangbo/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
